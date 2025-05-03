@@ -1,5 +1,8 @@
 # GalaxyGeeksBot, a modular Telegram bot, written in Python
 
+# Important Notice
+ This repository has been moved to a new standalone repository: [el0xren/GalaxyGeeksBot](https://github.com/el0xren/galaxygeeksbot).
+
 ## How to use it
 - Clone `https://github.com/el0xren/GalaxyGeeksBot`
 - Execute `pip3 install .` to install all the dependencies
